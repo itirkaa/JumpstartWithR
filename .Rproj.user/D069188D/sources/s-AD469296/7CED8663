@@ -1,0 +1,32 @@
+{
+    "id": "7CED8663",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1587161818286.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "expression": "bike_orderlines_wrangled_tbl",
+        "caption": "bike_orderlines_wrangled_tbl",
+        "totalObservations": "15644",
+        "displayedObservations": "15644",
+        "variables": "13",
+        "cacheKey": "5368D902",
+        "object": "bike_orderlines_wrangled_tbl",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=bike_orderlines_wrangled_tbl&cache_key=5368D902&max_cols=50",
+        "preview": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1587071477,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1587161818286,
+    "read_only": false,
+    "read_only_alternatives": []
+}
